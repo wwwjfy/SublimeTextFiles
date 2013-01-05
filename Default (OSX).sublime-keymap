@@ -1,0 +1,18 @@
+[
+    { "keys": ["super+shift+h"], "command": "goto_documentation" },
+    { "keys": ["super+k", "super+d"], "command": "duplicate_line" },
+    { "keys": ["alt+d"], "command": "delete_word", "args": { "forward": true, "sub_words": false } },
+    { "keys": ["ctrl+w"], "command": "delete_word", "args": { "forward": false, "sub_words": false } },
+    { "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol"}},
+    { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol"}},
+    // { "keys": ["alt+b"], "command": "move", "args": {"by": "subwords", "forward": false} },
+    // { "keys": ["alt+f"], "command": "move", "args": {"by": "subword_ends", "forward": true} }
+    { "keys": ["alt+f"], "command": "move", "args": {"by": "words", "forward": true} },
+    { "keys": ["alt+b"], "command": "move", "args": {"by": "words", "forward": false} },
+    { "keys": ["alt+v"], "command": "move", "args": {"by": "pages", "forward": false} },
+    { "keys": ["ctrl+alt+shift+super+1"], "command": "focus_group", "args": {"group": 0}},
+    { "keys": ["ctrl+alt+shift+super+2"], "command": "focus_group", "args": {"group": 1}},
+    { "keys": ["ctrl+alt+shift+super+3"], "command": "focus_group", "args": {"group": 2}},
+    { "keys": ["ctrl+alt+shift+super+4"], "command": "focus_group", "args": {"group": 3}},
+    { "keys": ["super+9"], "command": "goto_last"}
+]

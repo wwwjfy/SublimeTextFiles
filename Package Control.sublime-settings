@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Emmet",
+		"Git",
+		"Goto Documentation",
+		"Jinja2",
+		"KeymapViewer",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"SmartMarkdown",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Task",
+		"Theme - Soda",
+		"TODO Control",
+		"Unity3D",
+		"Unity3D Script Reference Search"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json",
+		"https://github.com/wwwjfy/KeymapViewer.git",
+		"https://github.com/wwwjfy/KeymapViewer"
+	]
+}

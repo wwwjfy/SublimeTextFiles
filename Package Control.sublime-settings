@@ -10,6 +10,7 @@
 		"KeymapViewer",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"MoveTab",
 		"Package Control",
 		"PlainTasks",
 		"SmartMarkdown",
@@ -18,8 +19,7 @@
 		"Task",
 		"Theme - Soda",
 		"TODO Control",
-		"Unity3D",
-		"Unity3D Script Reference Search"
+		"Unity3D"
 	],
 	"repositories":
 	[
